@@ -8,6 +8,7 @@ While I acknowledge that **R** is often the superior tool for **Time Series Fore
 ### What's Inside
 - **Python-based projects:** Focusing on Machine Learning (Classification) and NLP.
 - **Data Analysis:** Using Pandas & Scikit-Learn.
+- **Exploring Polars to replace Pandas due to large  volume of data**
 
 ### My Broader Portfolio
 For my other work (including projects where I utilize **R** for statistical analysis), check out my main portfolio here:
